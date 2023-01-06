@@ -1,3 +1,4 @@
+![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=jeannierombough&layout=compact&hide=shell)
 <!-- 
 ### Hi there 👋
 
